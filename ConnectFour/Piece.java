@@ -1,5 +1,4 @@
-package ConnectFour.src;
-
+package ConnectFour;
 public class Piece {
     
 }
